@@ -2,9 +2,9 @@ package day8.abstraction;
 
 public abstract class Shape {
 	
-	protected float area;
-    
-    //abstract method 
+ protected float area;
+     
+     //abstract method 
 	 abstract void calArea();
 	 
 	 //concrete method

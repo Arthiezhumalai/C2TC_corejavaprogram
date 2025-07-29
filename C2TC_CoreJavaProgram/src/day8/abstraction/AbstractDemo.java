@@ -23,9 +23,8 @@ public class AbstractDemo {
 		shape=new Rectangle(10,20);
 		
 		shape.calArea(); // invoked Rectangle class calArea()
-		shape.show();		
-
+		shape.show();
+		
 	}
-
 
 }

@@ -1,6 +1,7 @@
 package day8.abstraction;
 
-public class Rectangle extends Shape{
+public class Rectangle extends Shape {
+	
 	private float width, height;
 
 	public Rectangle() {
@@ -17,5 +18,5 @@ public class Rectangle extends Shape{
 	void calArea() {
 		area=width*height;		
 	}
-	
+
 }
